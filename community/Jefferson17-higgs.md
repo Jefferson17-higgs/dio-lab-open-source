@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Jefferson Felipe
 
-🎯 Desenvolvedor Python | 💻 Apaixonado por resolver problemas com código | 🌱 Sempre aprendendo algo novo
+🎯 Desenvolvedor Python | 💻 Apaixonado por resolver problemas com código | 🌱 Sempre aprendendo algo novo.
 
 ---
 
